@@ -5,3 +5,4 @@ This class contains a cumulative density function
 created with a fifth-degree polynomial. It is used
 for the Black Scholes option pricing function for
 calls and puts.
+It also has the equations to price *calls* and *puts*.
